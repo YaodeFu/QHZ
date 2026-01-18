@@ -1,0 +1,11 @@
+# 忽略 Python 缓存
+__pycache__/
+*.pyc
+
+# 忽略小程序开发工具的配置
+project.config.json
+.node_modules/
+
+# 忽略本地临时文件
+temp/
+*.log
